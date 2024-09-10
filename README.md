@@ -1,5 +1,7 @@
 # Prompt 1: Computational Constraint
 
+## DUE: September 12th by 12pm
+
 > With a good ventriloquist ... [the] puppet seems to come alive and seems to be aware of its world.
 >
 > Michael Graziano, in _Do Large Language Models Understand Us?_ (Blaise Agüera y Arcas)
