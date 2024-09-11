@@ -45,7 +45,7 @@ Mainly, what kinds of choices can we engineer the model to make and how can we a
 ## Tasks
 
 * 2 poems and corresponding prompts (included in the `writing` folder as `md` files)
-    * 1 enacting a []"traditional" Oulipean constraint](https://drive.google.com/file/d/1OkfNSdAsUwKFfMlIHlgBDbr8yecYWNLl/view?usp=sharing)
+    * 1 enacting a ["traditional" Oulipean constraint](https://drive.google.com/file/d/1OkfNSdAsUwKFfMlIHlgBDbr8yecYWNLl/view?usp=sharing)
     * 1 enacting a constraint only possible using GPT
 
 Please note that you may ask the model to generate the poem or you may put some existing text to be used for the constraint in `src/data`.
